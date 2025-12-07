@@ -11,10 +11,10 @@ A lightweight **Retrieval-Augmented Generation (RAG)** chatbot built with:
 
 This project demonstrates how to build a production-style chatbot that can:
 
-✔ answer questions using retrieved documents  
-✔ integrate LLMs with a knowledge base  
-✔ run as a lightweight API service  
-✔ showcase end-to-end AI engineering  
+answer questions using retrieved documents  
+integrate LLMs with a knowledge base  
+run as a lightweight API service  
+showcase end-to-end AI engineering  
 
 ---
 
